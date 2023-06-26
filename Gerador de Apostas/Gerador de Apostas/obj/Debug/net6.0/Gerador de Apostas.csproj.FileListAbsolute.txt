@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\bin\Debug\net6.0\Gerador de Apostas.exe
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\bin\Debug\net6.0\Gerador de Apostas.deps.json
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\bin\Debug\net6.0\Gerador de Apostas.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\bin\Debug\net6.0\Gerador de Apostas.dll
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\bin\Debug\net6.0\Gerador de Apostas.pdb
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.dll
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\refint\Gerador de Apostas.dll
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.pdb
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\Gerador de Apostas.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\C#\primeiro codigo\Gerador de Apostas\Gerador de Apostas\obj\Debug\net6.0\ref\Gerador de Apostas.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdwR6X/eNh8HTzeYmMpG66Xzq3ikoF8+fV8hIQ4nuBRoIudcza0S4zVk5N8qlmu8sEsyOhXtc4XJoWuseQrqmg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\leona\\OneDrive\\Documentos\\C#\\primeiro codigo\\Gerador de Apostas\\Gerador de Apostas\\Gerador de Apostas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
